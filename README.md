@@ -9,4 +9,4 @@ en cada una de las carpetas se encuentra cada una de las tareas requeridas:
 * Diseño Wireframes
 * Diseño UI
 
-Dentro de la carpeta de Diseño UI también se encuentra el logo diseñado para este proyecto. 
+Dentro de la carpeta de UI también se encuentra el logo diseñado para este proyecto. 
